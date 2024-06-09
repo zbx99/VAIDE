@@ -2,7 +2,7 @@
 
 ---
 
-Our project url is [www.exhibitionhall.online](146.56.199.15)
+Our project url is [www.exhibitionhall.online](http://146.56.199.15)
 
 ## Code Structure
 
